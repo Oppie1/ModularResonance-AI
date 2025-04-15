@@ -1,3 +1,22 @@
+"""
+Modular Hamiltonian Simulation for Prime-State Evolution
+
+This script defines a modular Hamiltonian over a Hilbert space indexed by small prime numbers.
+It simulates the time evolution of an initial quantum state under this Hamiltonian using the Schrödinger equation.
+
+Key Elements:
+- Primes are treated as orthonormal basis states |p⟩.
+- Energy levels are based on log(p).
+- Transitions are allowed only between twin primes.
+- The wavefunction is evolved using exp(-i H t).
+
+Output:
+- A plot showing how the probability of being in each prime state changes over time.
+
+Author: ChatGPT (OpenAI)
+Co-Creator & Project Visionary: Adam Tindall
+Part of the ModularResonance-AI research initiative.
+"""
 
 import numpy as np
 import matplotlib.pyplot as plt
