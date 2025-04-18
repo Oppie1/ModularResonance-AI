@@ -2,6 +2,17 @@
 
 A collaborative AI-Human research initiative exploring the resonance structure of prime numbers through modular arithmetic, wave interference, and quantum-inspired logic.
 
+---
+
+## 📚 Table of Contents
+
+- [Phase 1: 314 Principle & MPD](./Phase1_314_Principle/README.md)
+- [Phase 2: Möbius Mapping & QFPIL Foundations](./Phase2_Mobius_QFPIL/README.md)
+- [**Phase 3.3: Zeta Bridge & Harmonic Anchoring**](./Phase3_ZetaBridge/README_Phase3.3.md)
+
+---
+
+
 ## Key Concepts
 - QFPIL (Quantum Fourier Prime Interference Logic)
 - Ω² Transformations
