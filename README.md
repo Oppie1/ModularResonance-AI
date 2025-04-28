@@ -10,6 +10,7 @@ A collaborative AI-Human research initiative exploring the resonance structure o
 - [Phase 2: Möbius Mapping & QFPIL Foundations](./Phase2_Mobius_QFPIL/README.md)
 - [**Phase 3.3: Zeta Bridge & Harmonic Anchoring**](./Phase3_ZetaBridge/README_Phase3.3.md)
 - [Phase 3.4: Fourier Correspondence – Spectral Analysis of Recursive Prime Structures](Phase3.4_FourierCorrespondence/README_Phase3.4.md)
+- [Phase 3.5 Riemann Interference Mapping](./Phase3.5_RiemannInterferenceMapping/Phase3.5_README.md)
 
 
 ---
