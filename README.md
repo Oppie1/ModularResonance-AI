@@ -13,6 +13,7 @@ A collaborative AI-Human research initiative exploring the resonance structure o
 - [Phase 3.5 Riemann Interference Mapping](./Phase3.5_RiemannInterferenceMapping/Phase3.5_README.md)
 - [Phase 4.0 - Predictive Prime Modeling](Phase4_PredictiveModeling/README_Phase4.0.md)
 - [Phase 4.5: Enhanced Prime Forecasting](Phase4.5_EnhancedForecasting/README_Phase4.5.md)
+- [Phase 5.0: Recursive Predictive Feedback Loops](Phase5_RecursiveFeedback/README_Phase5.0.md)
 
 
 ---
