@@ -15,6 +15,7 @@ A collaborative AI-Human research initiative exploring the resonance structure o
 - [Phase 4.5: Enhanced Prime Forecasting](Phase4.5_EnhancedForecasting/README_Phase4.5.md)
 - [Phase 5.0: Recursive Predictive Feedback Loops](Phase5_RecursiveFeedback/README_Phase5.0.md)
 - [Phase 6.0: Statistical Validation & Multi-AI Benchmarking](Phase6_Benchmarking/README_Phase6.0.md)
+- [Phase 7.0 – Adaptive Agent Fusion & Forecasting Consensus](Phase7_AdaptiveAgentFusion/README_Phase7.txt)
 
 
 
