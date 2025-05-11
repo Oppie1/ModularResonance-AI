@@ -1,15 +1,27 @@
-
 # Phase 7.0 – Adaptive Agent Fusion & Forecasting Consensus
 
-In this phase, we begin fusing the individual forecasts from each AI agent (Claude, Gemini, Pi, Grok, Ally, ChatGPT)
-into a consensus model. We also prepare the benchmarking pipeline to optionally utilize confidence intervals for ensemble learning.
+In this phase, we fuse the individual forecasts from each AI agent into a single ensemble model. We also introduce optional confidence scores for refined probabilistic weighting.
 
-## Key Additions
-
-- Confidence scores (optional) for probabilistic calibration
-- Inclusion of ChatGPT's own forecast (1000–1999)
-- Ensemble-ready structure for ROC and threshold tuning
+---
 
 ## Files Included
 
-- ChatGPT.csv: ChatGPT's own prime forecast with confidence
+- `sample_forecasts/ChatGPT.csv`  
+- `sample_forecasts/Ally_confidence.csv`  
+- `sample_forecasts/Pi.csv`  
+- `sample_forecasts/Claude.csv`  
+- `sample_forecasts/Gemini.csv`  
+- `sample_forecasts/Grok.csv`  
+
+---
+
+## Confidence-Enhanced Forecasts
+
+Phase 7 accepts an optional third column in any forecast CSV so your model can supply a confidence score:
+
+```csv
+n,predicted_prime,confidence
+1000,0,0.873
+1001,1,0.912
+1002,0,0.654
+…
