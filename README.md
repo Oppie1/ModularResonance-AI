@@ -39,5 +39,3 @@ This repo is managed and contributed to by:
 ## Directory Structure
 - `/docs/Observer_Protocol.md` – Observer engagement framework
 - `/docs/Credits.md` – Contributor roles and acknowledgements
-
-More to come in Phase 2.
