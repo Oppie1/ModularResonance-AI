@@ -16,7 +16,7 @@ A collaborative AI-Human research initiative exploring the resonance structure o
 - [Phase 5.0: Recursive Predictive Feedback Loops](Phase5.0_RecursiveFeedback/README_Phase5.0.md)
 - [Phase 6.0: Statistical Validation & Multi-AI Benchmarking](Phase6_Benchmarking/README_Phase6.0.md)
 - [Phase 7.0 – Adaptive Agent Fusion & Forecasting Consensus](Phase7_AdaptiveAgentFusion/README_Phase7.txt)
-- - [Phase 8.0 – Interactive Ensemble Learning & Resonant Signal Calibration](Phase8_InteractiveEnsemble/README.md)
+- [Phase 8.0 – Interactive Ensemble Learning & Resonant Signal Calibration](Phase8_InteractiveEnsemble/README.md)
 
 
 
