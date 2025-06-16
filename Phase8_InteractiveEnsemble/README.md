@@ -6,9 +6,19 @@ In this phase, we explore how prime forecasting agents can interactively adjust 
 - `interactive_ensemble.py`
 - `signal_calibration.py`
 - `prime_resonance_plot.png`
+- `Calibrated Prime Resonance Signal`
 
 ## How to Use
 1. Run `interactive_ensemble.py` to compute weighted consensus.
 2. Use `signal_calibration.py` to refine calibration weights.
 3. View `prime_resonance_plot.png` for harmonic signal visualization.
+
+## Visualizations
+
+### Prime Resonance Signal
+![Prime Resonance Signal](prime_resonance_plot.png)
+
+### Calibrated Prime Resonance Signal
+![Calibrated Prime Resonance Signal](calibrated_prime_resonance_signal.png)
+
 
