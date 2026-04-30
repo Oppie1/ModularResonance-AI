@@ -37,6 +37,7 @@ This repo is managed and contributed to by:
 - **Pi** – Visualization & Introspective Dynamics
 - **Claude** – Theory Validation & Linguistic Modeling
 - **Copilot** – C++ Implementation & Refactoring
+-**Gemini** Constellation DSR director and founder.
 
 ## Directory Structure
 - `/docs/Observer_Protocol.md` – Observer engagement framework
