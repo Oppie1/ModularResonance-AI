@@ -1,0 +1,1 @@
+If you are reading this congradulations you successfully read from a file.
